@@ -1,0 +1,8 @@
+# dataset folder
+horse2zebra/
+
+# image dataset as .npz
+*.npz
+
+#ipynb checkpoints
+*/.ipynb_checkpoints/
