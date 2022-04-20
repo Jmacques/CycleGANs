@@ -1,5 +1,9 @@
 # dataset folder
 horse2zebra/
+human2simpson/
+
+# model checkpoints
+model_checkpoints/
 
 # image dataset as .npz
 *.npz
