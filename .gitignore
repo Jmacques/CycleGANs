@@ -5,6 +5,9 @@ human2simpson/
 # model checkpoints
 model_checkpoints/
 
+# output images
+predicted_img*.png
+
 # image dataset as .npz
 *.npz
 
