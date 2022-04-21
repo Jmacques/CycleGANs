@@ -6,8 +6,12 @@ human2simpson/
 model_checkpoints/
 training_progress_img/
 
+# tensorflow logs
+logs/
+
 # output images
 predicted_img*.png
+generated_img*.png
 
 # image dataset as .npz
 *.npz
