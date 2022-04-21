@@ -2,8 +2,9 @@
 horse2zebra/
 human2simpson/
 
-# model checkpoints
+# model checkpoints & progress images
 model_checkpoints/
+training_progress_img/
 
 # output images
 predicted_img*.png
